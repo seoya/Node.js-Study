@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoya/Node.js-Study.git"
+  },
+  "author": "yxxnah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoya/Node.js-Study/issues"
+  },
+  "homepage": "https://github.com/seoya/Node.js-Study#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
